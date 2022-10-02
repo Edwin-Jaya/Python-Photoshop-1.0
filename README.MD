@@ -12,6 +12,7 @@
 ## Features to implement in the future
 - [ ] Adjusting shadow
 - [ ] Adjusting saturation
+- [ ] How to reduce the loading image time (especially after using the features)
 - [ ] Make the result photo less blurry and more HD
 
 # How To Run
